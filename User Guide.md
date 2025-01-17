@@ -115,8 +115,7 @@ Once you’re logged in, you can begin to use Nessus.
 Once you are finished working with Nessus, you can stop the service with the command <b>sudo systemctl stop nessusd</b>
 
 
-In the next tutorial, we’ll show you how to use Nessus in Kali. peace
+In the next tutorial, we’ll show you how to use Nessus in Kali.
 
-<p>Thumbs up : <span> 👍 < </p>
-<span>&#x1f54a;</span>
+<p>peace: <span>&#x1f54a;</span>
 
